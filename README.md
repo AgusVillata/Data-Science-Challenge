@@ -1,5 +1,7 @@
 # Data-Science-Challenge MELI
 ## AUTOR: Agustín Villata.
+https://www.linkedin.com/in/agustin-villata-828511169/
+
 
 Caso de negocio elegido:
 
@@ -11,4 +13,4 @@ comercial a identificar estos sellers?
 
 - CARPETA DATOS: Aqui se encuentran los datos extraidos de la API
 
-- CARPETA NOTEBOOK: Se encuentran los notebooks con el código de extracción de datos, cálculo de nuevos datos, análisis exploratorio y limpieza, modelo de clasificación.
+- CARPETA NOTEBOOK: Se encuentra el notebook con el código de extracción de datos, cálculo de nuevas caracteristicas, análisis exploratorio y limpieza, modelo de clasificación.
